@@ -1,0 +1,86 @@
+{
+  "manifest_version": 2,
+  "version": "1.17",
+  "name": "Nord Polar Dark",
+  "theme": {
+    "images": {
+      "additional_backgrounds": [
+        "images/bg-000-5672c42860d5b06e1058dc477397f3ef.svg"
+      ]
+    },
+    "properties": {
+      "additional_backgrounds_alignment": [
+        "top"
+      ],
+      "additional_backgrounds_tiling": [
+        "repeat"
+      ]
+    },
+
+
+
+
+
+    "colors": {
+
+      "frame": "#2e3440",
+      "frame_inactive": "#4c566a",
+
+      "toolbar": "#3b4252",
+      "toolbar_text": "#eceff4",
+
+      "tab_background_text": "#d8dee9",
+      "tab_background_separator": "#d8dee9",
+      "toolbar_field_text_focus": "#d8dee9",
+      "toolbar_field": "rgb(46, 52, 64)",
+      "toolbar_field_text": "rgb(236, 239, 244)",
+      "toolbar_bottom_separator": "#3b4252",
+
+      "tab_line": "#5E81AC",
+      "tab_loading": "#eceff4",
+
+      "icons": "#eceff4",
+      "icons_attention":"#EBCB8B",
+      "bookmark_text": "#e5e9f0",
+
+
+      "toolbar_field_highlight": "#eceff4",
+      "toolbar_field_highlight_text": "#2e3440",
+      "toolbar_field_border": "#3b4252",
+      "toolbar_field_border_focus": "#3b4252",
+
+      "popup": "#3b4252",
+      "popup_text": "#eceff4",
+      "popup_border": "#3b4252",
+      "popup_highlight": "#d8dee9",
+      "popup_highlight_text": "#2e3440",
+     
+
+      "ntp_background": "#3b4252",
+      "ntp_text": "#eceff4",
+
+
+      "sidebar": "#3b4252",
+      "sidebar_text": "#eceff4",
+      "sidebar_border": "#3b4252",
+      "sidebar_highlight": "#d8dee9",
+      "sidebar_highlight_text": "#2e3440"
+
+      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    }
+  }
+}
