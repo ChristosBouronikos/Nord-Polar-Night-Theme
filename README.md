@@ -1,8 +1,14 @@
 # Nord-Polar-Night-Theme
-
-### This is the official page for the Nord Polar Night theme for the Firefox Browser.
-
+#### This is the official page for the Nord Polar Night theme for the Firefox Browser.
+---
 # Theme can be downloaded from [here](https://addons.mozilla.org/en-US/firefox/addon/nord-polar-night-theme/)
+***
+## Please do consider using the -*Sponsor*- button at the top right.
+It shows your appreciation and helps support me, and the creation of new themes.
+
+Comments, reviews, issues and criticism are all welcome.
+
+
 
 #### The theme is based on the incredible Nord color palette, by the awesome developer [Arctic Ice Studio](https://github.com/arcticicestudio)
 More info on the Nord color palette can be found [on Github](https://github.com/arcticicestudio/nord) and [on their website](https://www.nordtheme.com/). 
