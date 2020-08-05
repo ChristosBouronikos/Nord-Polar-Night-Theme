@@ -1,15 +1,10 @@
 # Nord-Polar-Night-Theme
 #### This is the official page for the Nord Polar Night theme for the Firefox Browser.
+
+<a href="https://www.buymeacoffee.com/chrisbouronikos" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" width="270" height="60"></a>
 ---
+<a href="https://addons.mozilla.org/en-US/firefox/addon/nord-polar-night-theme/" rel="nofollow"><img src="https://camo.githubusercontent.com/edde2baf1042229dbf67790ccf5abd5894f738c6/68747470733a2f2f692e696d6775722e636f6d2f386f4a4c5067332e6a7067" alt="For Firefox" data-canonical-src="https://i.imgur.com/8oJLPg3.jpg" style="max-width:100%;"></a>
 
-<a href="https://www.buymeacoffee.com/chrisbouronikos" target="_blank">
-  <img src="https://camo.githubusercontent.com/031fc5a134cdca5ae3460822aba371e63f794233/68747470733a2f2f7777772e6275796d6561636f666665652e636f6d2f6173736574732f696d672f637573746f6d5f696d616765732f6f72616e67655f696d672e706e67" alt="Buy Me A Coffee" data-canonical-src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" style="max-width:100%;">
-</a>
-
-
-
-# Theme can be downloaded from [here](https://addons.mozilla.org/en-US/firefox/addon/nord-polar-night-theme/)
-***
 ## Please do consider using the -*Sponsor*- button at the top right.
 It shows your appreciation and helps support me, and the creation of new themes.
 
