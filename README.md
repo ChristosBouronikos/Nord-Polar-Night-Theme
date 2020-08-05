@@ -2,7 +2,10 @@
 #### This is the official page for the Nord Polar Night theme for the Firefox Browser.
 ---
 
-<a href="https://www.buymeacoffee.com/chrisbouronikos" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" style="height: 51px !important;width: 51px !important; border-radius: 25px;" ></a>
+<a href="https://www.buymeacoffee.com/chrisbouronikos" target="_blank">
+  <img src="https://camo.githubusercontent.com/031fc5a134cdca5ae3460822aba371e63f794233/68747470733a2f2f7777772e6275796d6561636f666665652e636f6d2f6173736574732f696d672f637573746f6d5f696d616765732f6f72616e67655f696d672e706e67" alt="Buy Me A Coffee" data-canonical-src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" style="max-width:100%;">
+</a>
+
 
 
 # Theme can be downloaded from [here](https://addons.mozilla.org/en-US/firefox/addon/nord-polar-night-theme/)
