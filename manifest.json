@@ -1,6 +1,6 @@
 {
   "manifest_version": 2,
-  "version": "1.17",
+  "version": "1.18",
   "name": "Nord Polar Dark",
   "theme": {
     "images": {
@@ -35,6 +35,7 @@
       "toolbar_field": "rgb(46, 52, 64)",
       "toolbar_field_text": "rgb(236, 239, 244)",
       "toolbar_bottom_separator": "#3b4252",
+      "toolbar_top_separator":"#3b4252",
 
       "tab_line": "#5E81AC",
       "tab_loading": "#eceff4",
